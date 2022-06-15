@@ -1,0 +1,2 @@
+# dgeti
+Revista Digital
